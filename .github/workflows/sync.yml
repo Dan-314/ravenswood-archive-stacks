@@ -58,7 +58,7 @@ jobs:
               try { response = await fetch(url); }
               catch (e) { console.error('Failed to fetch from ' + slug + ': ' + e.message); break; }
 
-              for (const script of response.scripts) {
+              for (const script of response.data) {
                 // Write script file using JSON.stringify (matches Postgres jsonb::text format)
                 const content = JSON.stringify(script.raw_json);
                 fs.writeFileSync(path.join('scripts', script.hash + '.json'), content);

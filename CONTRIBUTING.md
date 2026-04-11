@@ -89,7 +89,7 @@ GET /api/export-scripts?cursor={id}&limit=100
 
 Response:
 {
-  "scripts": [
+  "data": [
     {
       "hash": "md5-of-raw-json",
       "raw_json": [...],
