@@ -5,8 +5,8 @@ A community-owned, content-addressed archive of [Blood on the Clocktower](https:
 ## How It Works
 
 - Each script is stored as a standard BotC JSON file in `scripts/`
-- Filenames are the MD5 hash of the file contents (content-addressed = automatic dedup)
-- Scripts are pure BotC JSON - usable directly in any BotC tool (clocktower.online, etc.)
+- Filenames are the MD5 hash of the file contents (content-addressed = automatic de-duplication)
+- Scripts are pure BotC JSON - usable directly in any BotC tool (botc.app, etc.)
 - `index.json` provides a searchable index of all scripts with name, author, and source info
 
 ## Using the Archive
