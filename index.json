@@ -1,1 +1,2873 @@
-[]
+[
+  {
+    "hash": "55a913050b2b579524460a48a008dd4c",
+    "name": "\"Touch Grass\" is Tick Propaganda",
+    "author": "Navean",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d03b048ab5a707fd6666899b21606066",
+    "name": "A Different Kind of Mathematics",
+    "author": "No Rolls Barred",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "ceb6769cc55da05921ee26ac80517036",
+    "name": "A Flask of Poison",
+    "author": "Red Mist",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "4f66165ad073b82fb46bf8ea4c69c119",
+    "name": "A Grimm Chorus",
+    "author": "Zets",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "9e237cb225e11397d7a4c63cfe3ba137",
+    "name": "A Lantern for the Lost and Lonely",
+    "author": "Ember & Axios!",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "fca571f0c7c05164c7a00eee14f70e30",
+    "name": "A Lleech of Distrust",
+    "author": "OJ",
+    "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "bba3aa5dfafe214e4e97c2a84020f37f",
+    "name": "A Local Town For Local People",
+    "author": "Louis Miles",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5668fe3b8513733cc5b43b2903df1535",
+    "name": "A_Day_to_Remember",
+    "author": null,
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "83d3ef9603018e0a203377e8bcd1fec8",
+    "name": "AL VS AL 2.3",
+    "author": "Ekin",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e9b37ebf7b6fa292ae426142a70dd0bb",
+    "name": "Alchemy 101",
+    "author": "amy",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e67ab7e145db589df52737d1d8d4e591",
+    "name": "All The King's Men",
+    "author": "Jacob",
+    "character_count": 32,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "44709bf66465876f75833fbf31ac867a",
+    "name": "Animal Kingdom",
+    "author": "Ekin",
+    "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "9c513f9b61addd3c6b22f2e805a6ce7a",
+    "name": "Annihilate",
+    "author": "bhamber",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3911997691cc7fddecd423c48b2f7018",
+    "name": "Anonymous Dishonesty",
+    "author": "Emerald, Fran, Kohav, & Theo",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "2167b3eb53b5a123f8647961e879ba34",
+    "name": "Are you  my friend? ",
+    "author": "Dave",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "10099b2da26768985ff856b5acaab808",
+    "name": "Are You Evil?!",
+    "author": "Chris Oien (Mullibok)",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "9267f3a63ffc6ac3126b70b8b8cac7f2",
+    "name": "Art Thou Evil, Sir?",
+    "author": "Ben Burns",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "bf61aa0ecdd6d04fa185f2aa8affa62e",
+    "name": "Ask the Gods for Release from these Ordeals",
+    "author": "Emma",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "328c19b911d38a033ea96f394c48fcc9",
+    "name": "Babysteps",
+    "author": "Ben Burns",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "b55deffdcfde0536f5c83f9ac3233460",
+    "name": "Bad Apple",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d33d7916042ab59a0ac7a6b037cdb1f9",
+    "name": "Bad Moon Rising",
+    "author": "The Pandemonium Institute",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0d715dde02b68128f1804580ca0dc709",
+    "name": "Bait and Switch",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "bde06c90b583d434ec34e6150527bf35",
+    "name": "Balance",
+    "author": "Fearless Dave",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0cf76431d55a4b5dd60b93b451d02fcf",
+    "name": "Ballad of a Falling God",
+    "author": "JWCY",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e3f601bb1a606521625bcfe517589101",
+    "name": "Best script ever",
+    "author": "Fober",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "2808b5ec0718242872189b6893382070",
+    "name": "Beyond Good and Evil",
+    "author": "SilentInAWay",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "249de1965e82980ed758844750887786",
+    "name": "Beyond the Veil",
+    "author": "Lady Mist",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "30e9bcfe149d6acead2afcdec95f18d8",
+    "name": "Big Top Energy",
+    "author": "FM Jason & Bambi 🥔",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d47397505baa7e913a043cf43c0853cd",
+    "name": "Binary Supernovae",
+    "author": "Hystrex",
+    "character_count": 29,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "b3e12a448c288da0ba5f5b97a4ac1fea",
+    "name": "Bird Violence",
+    "author": "Navean & Mullibok",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "47fa439c027cee551d3355e2df4a0437",
+    "name": "Birthday Feast!",
+    "author": "Malashaan",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "9be7d6a28f9f1aa276baac315f4cf450",
+    "name": "Blind Man's Bluff",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "06d596a6f3b106e458ddfa814bccfaa9",
+    "name": "Boozling",
+    "author": "Lau",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "09b7f1899b73d868a574c62cb6ec716f",
+    "name": "Boozling! v7",
+    "author": "Lau",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "57b81f740f5372e25894005b8ae2d150",
+    "name": "Broken Circles",
+    "author": "Navean",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "362c211ed5cfb6182addd34455ac6865",
+    "name": "Buoyancy",
+    "author": "Milk",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f00f747d6dc1812e262a277ba7c4bf44",
+    "name": "Castlegaynia",
+    "author": "Hallow",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3377c65f68fd3cc6a10e13bd1c3affb7",
+    "name": "Cat Soup",
+    "author": "Alexis",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f291f84f88779c84e0347130367962af",
+    "name": "Catfishing",
+    "author": "Emily",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "4e601f731eb454b36b69adfe11b4c567",
+    "name": "Chaos in the Streets",
+    "author": "Zets",
+    "character_count": 21,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "35dd6930f6b7b46bba8cf314146de646",
+    "name": "Charmed, Truly 2.1",
+    "author": "taylor",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "257186c3b85c82ab0ff34ff66eff0855",
+    "name": "Chatastrophe",
+    "author": "TieGuyTravis",
+    "character_count": 13,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d57ae80f763f39ddcb97f22d1e52cacc",
+    "name": "Chef's Deluxe",
+    "author": null,
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "2032c749646ba02fab9e7eb28b805144",
+    "name": "China Shop",
+    "author": "Autumn",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5d92e5992ae04985bd50353d33b405c9",
+    "name": "Choose your Own Alignment",
+    "author": "Narninian",
+    "character_count": 29,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0f719309d389f7b673ecb78890dd0391",
+    "name": "Church of Spies",
+    "author": "Andrew Nathenson",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "8ae15e05ccce640798564add935baa57",
+    "name": "Clockwork Cyborg",
+    "author": "vaticidalprophet",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "986babee1d68ee5f77b30d20f0d4c1d1",
+    "name": "Coffee Laced with Cyanide",
+    "author": "Navean & Dakota",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "22d74229f9eafaa16f6c4a15d1afcb6b",
+    "name": "Comrade Demon (+Revolutionary) v 1.9",
+    "author": "Zets",
+    "character_count": 15,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6518661027e12a31b29e58cf2acbe29a",
+    "name": "Conjectures of a Conspiracy Theorist",
+    "author": "Paradox",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "775efd9bcce09b3909d7be3400c74ea1",
+    "name": "Contagious",
+    "author": "Milk",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "191852e44123d3afcb40864038adf881",
+    "name": "Contempt",
+    "author": "Milk",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3c4cf7257717a18db8c3478436f0cc3f",
+    "name": "CREME_DE_LA_CREME_v2",
+    "author": "Off Meta",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6914fb8a06a8ccbd64dc3e08852ad74b",
+    "name": "Cultists of Atlantis",
+    "author": "Zets",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "8c80c351d8345d8f2ad76fdd0e54d160",
+    "name": "Curious George",
+    "author": "Hallow",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "07e3ec7bcb27d19d9344b65f8190dad6",
+    "name": "De-based",
+    "author": "Navean",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "cddc4ab13674c5fd33421b6116391267",
+    "name": "Deadly Penance Day",
+    "author": "Ben Burns",
+    "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5b69175f2e5130ab7eb73ca7ba510500",
+    "name": "Dealer's Choice",
+    "author": "Navean",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "98207d0d5755264fddafad2203bcc7a2",
+    "name": "Delirious Diatribe",
+    "author": "Dev",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "237722d78222a1ab77da76649deb7807",
+    "name": "Delirium Promenade",
+    "author": "GrayPockets",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "9ccdd844fea6865cb7b64bf9c91f5265",
+    "name": "Devil's Spoke",
+    "author": "George",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "2ffabb1ea0373e6a3a0cad3bc6b4c0d8",
+    "name": "Devout Theists v6",
+    "author": "Emerald",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "662fedf6e27bbcbd26064c8d15afd1c6",
+    "name": "Digitally Enhanced Demons",
+    "author": "Schnauzer",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f3b7c307fd3d06994f4a3736b89a1ac9",
+    "name": "Do You Believe in Balloonists?",
+    "author": "Lorion",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "dda9789099689ecee71775ba9ed1f2d5",
+    "name": "Do You Believe?",
+    "author": "Zyrain",
+    "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "168fa4997c042ccd09019049cbc16c3d",
+    "name": "Doctor Octopus",
+    "author": "Bambi and FMJason",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "100de68d84a06c5616df980b3cefc452",
+    "name": "Dreamscapes",
+    "author": "Paradox",
+    "character_count": 29,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "70fc1a24344267e5429d33818a56ef0e",
+    "name": "Drunk and Disorderly V4",
+    "author": null,
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6bdedc9ea3b6b0101b593c8a3be29627",
+    "name": "Dusk in the House of the Damned",
+    "author": "Shade (Shadowqueer)",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d239dca1b5ff89196530d05c432c73b6",
+    "name": "Embrace the Tentacles",
+    "author": "themeeman",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e0587df9ca362888147306c5e794a77c",
+    "name": "Emotional Support Wraith",
+    "author": "BBBence1111",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "ee6932349dd3c7f9a693c5ed244da98a",
+    "name": "Enough Rope to Shoot Yourself in the Foot",
+    "author": "Entropy",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "ff6f317fda6d0320c74bfb89348ae491",
+    "name": "Everybody Fucking Run!",
+    "author": "Brockwell",
+    "character_count": 32,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "7fc4931f38332c1ea46ca541cde13107",
+    "name": "Everyone Can Play",
+    "author": "Ben Burns",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "4c9d34a76f1e4b3a699883adf27e265d",
+    "name": "Extension Cord",
+    "author": "Viva La Sam",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0f7f959e8380c8adf8251608bd9ea180",
+    "name": "Fall of Rome",
+    "author": "Alex S",
+    "character_count": 32,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "62507925e3475a97808c4ac0caa37811",
+    "name": "Fighting Blind",
+    "author": "Tony",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f5eeac73db1ffbbde4f0302ee34406f9",
+    "name": "Filled Anew With Fury",
+    "author": "emma",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "b28cc07d688f7fe2f8b0350202a9170f",
+    "name": "Fish of Truth",
+    "author": "Malashaan",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "23395a11592dcf5937ba269e18cbab28",
+    "name": "Fizzy Vizzy",
+    "author": "Sammiches",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "fa9ead24528fac7db1ed39f3dcc706a3",
+    "name": "Foolish Idiots",
+    "author": "Ben Burns",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "77f53f3d23b4358cfd7659b48d0c28f3",
+    "name": "Frankenstein's Mayor",
+    "author": "Ted",
+    "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "c51487c5e301a89b0a8f45388f88dce5",
+    "name": "Gaslight, Gatekeep, Giggle",
+    "author": "McGiggles",
+    "character_count": 9,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "9b240f5d3ae7da1175f255e242e0e3e4",
+    "name": "Gentle Night",
+    "author": "Angelus Morningstar",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5769b7453163b72a49ce2b1b44b279f6",
+    "name": "Gingerbread Baking",
+    "author": "orange",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3aab7ee9d52f874e402ec4761ce0a577",
+    "name": "Girl's Gotta Eat",
+    "author": "Habby",
+    "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6afa046d9b8fce5ae8a7677b0a3a74ee",
+    "name": "Good Luck, Sir",
+    "author": "LivFreeOrPie / Bill Pz",
+    "character_count": 14,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "be3396044f4a6af77b066a900f990148",
+    "name": "Good Moon Rising",
+    "author": "Urban Minotaur",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "ba051b1fda05c9a534d5e518ad828bdf",
+    "name": "good time a brewin",
+    "author": "Chris Grace",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6b919b64d7ace44a92faba02e8196709",
+    "name": "Haha, Suckers!",
+    "author": null,
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a8e0bb33de19f9fc369fd0099070d65b",
+    "name": "Half of the 108",
+    "author": "Jack Broome",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "7d197c57dfb30c9089d360b5d7c5a366",
+    "name": "Harold Holt's Revenge",
+    "author": "Theo",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "854bbc09ecec241f58465b24df9e81a2",
+    "name": "Hats Off",
+    "author": "Aggie & Jams",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "720d9225adc95106af81697b5bdc4696",
+    "name": "Hell's Chili Cookoff",
+    "author": "Urban Minotaur",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "7a6ede43a10f0c41e9e579c5ba6f3735",
+    "name": "Hello Neighbor",
+    "author": "Viva La Sam",
+    "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "aa7412f4cfb02d5ced91e8cd809bfe01",
+    "name": "Hello Priestess",
+    "author": "Ben Burns",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "69d1b28047c2d0386241edddcaf39d66",
+    "name": "Here Today, Gone Tomorrow",
+    "author": "Raj",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "554fb18177b35e2256e8f1a05a8b6068",
+    "name": "Hide and Seek",
+    "author": "Narninian & Zaba",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d5380843351b456903899a25a95e37ea",
+    "name": "High Stakes Betting",
+    "author": "Navean",
+    "character_count": 19,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "67b827c25a28b2eaef25cbc8b5fb7fcd",
+    "name": "How Many Times Do I Have To Kill You?",
+    "author": "Milk and Samantha B.",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "8b4902113275752ecec56cf726d4a98d",
+    "name": "How to Cause a Riot",
+    "author": "TheButterMage",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "4122d8df1106597775932658578ce784",
+    "name": "Hunt for Outsiders",
+    "author": "Ekin Koker",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "40008b8a75c5a973d4936ab6509c72a8",
+    "name": "I Am Modavious",
+    "author": "The Bazaar",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "2f5fb3468faa11f99fb7dfd950f68223",
+    "name": "I Choose...Defiant Jazz",
+    "author": "elzbth",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "84344e2cf095a2d1ba81d2fcd3917778",
+    "name": "I Claim Slayer And Shoot Myself",
+    "author": "R.O.B.",
+    "character_count": 14,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "c061b2e40b1b8ff3314e50304e35d21e",
+    "name": "I Demand a Recount!",
+    "author": "Tan",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "97c8a21fabb0f6d35be4d48a42631f8c",
+    "name": "I do hereby summon thee, by the power of this arcane incantation!",
+    "author": "Chaim Weinberg (@IrrationalDM)",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6cb9926128925c9b43fb985b35a6b503",
+    "name": "I'm your demon now.",
+    "author": "Simon",
+    "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "8f43edf2fb22e32358b1738bfb546e37",
+    "name": "Idiot Sauce",
+    "author": "Kinky Joe",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3638933b7b7c5a8fc9bb6809b44d8b31",
+    "name": "Illusions of Evil",
+    "author": "Navean",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "aebfdbc8b2460e342bfce036a0a31f94",
+    "name": "Immortal Dance Party",
+    "author": "Ian (UrbanMinotaur)",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "9f8ee418f83fc5c12168caad259d6df0",
+    "name": "Indigestion Brewing",
+    "author": "Mozart Is Lift Music",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "fce01d3ac4b347f8cf9efcf57ac086a2",
+    "name": "Insanity and Intuition v1.2",
+    "author": "Sam",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d6720e3932e3bd11939016eaa7b6c3cc",
+    "name": "Insider Trading",
+    "author": "bhamber",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f1b1abb2623f078423bd45423dc81950",
+    "name": "Insiders",
+    "author": "Viva La Sam",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0db6c7af68659ea51778f1b0d5f1325d",
+    "name": "Into the Catacombs",
+    "author": "skreww L00se",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "84db5804c184bc900ff4961fe95398e8",
+    "name": "Irrational Behaviour",
+    "author": "josh :)",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "9e5325487cefca534edfd1e06fa9c422",
+    "name": "Is it me, you are looking for?",
+    "author": "Cryol",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "c404ff6ebd59048748719ff76e387fd1",
+    "name": "It comes at night v2.5",
+    "author": "Zets",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d32765b13709e12461e235eea13225d7",
+    "name": "It's Not a Tunnel, If It's Real",
+    "author": "Austin+Raj",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "9c9158cb063daa8913009e90e8c0aba8",
+    "name": "JANK JANK JANK JANK",
+    "author": "Hystrex",
+    "character_count": 14,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "191ab4fbce2fb249dea883ee9447402b",
+    "name": "Jumping to Conclusions v4.4",
+    "author": "b_Z",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a234372e85fd87ad7330438ec7131fbe",
+    "name": "Just Because You're Paranoid",
+    "author": "Grolen",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a7387fb4bb035c6bac01298e3973cf31",
+    "name": "Just the Two of Us",
+    "author": "Misty Vistas",
+    "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f4aa21bb72ca7bab8962e24d0d49c194",
+    "name": "Kaboom",
+    "author": "Scuba Steve",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5d31095832a183a31c712b98ab41c906",
+    "name": "Kaleidoscope Eyes",
+    "author": "~Cam~",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0ef3d4996e21bde87436ecc0ebc1058d",
+    "name": "Kill My Darlings",
+    "author": "Ruth",
+    "character_count": 29,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0fff417838d7e61c89e426a4bbed1796",
+    "name": "Kill Your Darlings",
+    "author": "Kat",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a06a08d0c70b5333373aa115678fe577",
+    "name": "Kingdom Come",
+    "author": "Urban Minotaur",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "287f22d28fa7cde1f94866b64b37a270",
+    "name": "Knaves Out",
+    "author": "Ben & Jams",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "dd15711162c132182aa3f7a818398a5d",
+    "name": "Knowing me, knowing you (Rev Pairs)",
+    "author": "Nadine",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "bd45402c9b3d345aa1808e276443c166",
+    "name": "Laissez un Carnaval",
+    "author": "Noel",
+    "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "eb9939416db6115b1dffbef30c84b54f",
+    "name": "Land of Ug",
+    "author": "bhamber",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "215ae03c8084c431dbdddaba0184dedb",
+    "name": "Late Night Drive By",
+    "author": "Aero",
+    "character_count": 14,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "8171afd64221fc6c48d95fb48516e143",
+    "name": "Leeches & Legion",
+    "author": "Ben Burns",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d19622ad121f70f65e268ee28c291827",
+    "name": "Live, Laugh, Abyss",
+    "author": "Doomduck",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "8913dcf588ba79e866f85900c235f04c",
+    "name": "Loose Lips (Beginner Script)",
+    "author": "Quizoid",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0762765d7718322f9070adebc176cffa",
+    "name": "Lord of Teensy",
+    "author": "Eggnog",
+    "character_count": 10,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d98919d6d5ae4a6391487d74c89e5f43",
+    "name": "Luigi's Mansion",
+    "author": "AlejoFBlack",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a9159135acd22dd028a2e51c4bdf1373",
+    "name": "Lunar Eclipse v1.6",
+    "author": "Ekin",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "49fdf137c39fc9b62d8b7592eeef25e4",
+    "name": "Lycanthrope and Friends Commit Tax Fraud",
+    "author": "melodia",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "7af38ba6b4e70176cdf0bb2567481c38",
+    "name": "Madness Brewing",
+    "author": "The Yogscast",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "4b07dc752f8a868f8df3df3954a505fc",
+    "name": "Magic Hat of Incineration",
+    "author": "Lemon",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "bc3517e7a915d2711ecc619a7468b9a7",
+    "name": "Maiden, Mother, Crone",
+    "author": "~Cam~",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d58817cbf5fb3a27e5c4ca725246e25a",
+    "name": "Mandatory Conscription",
+    "author": "Kinky Joe",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "8017d4f945a30067fbdf6525499d0e60",
+    "name": "Manic Pixie Dream Girl",
+    "author": "Hallow",
+    "character_count": 13,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0741e9c62a3d02b0f5ca91f94673b789",
+    "name": "Manually Summoned Monsters",
+    "author": "Schnauzer",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5e38d8380cac4605273772d53d49d446",
+    "name": "Midnight in the Mausoleum",
+    "author": "Whitney Joe",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "987280a114566fee9501ea462ee5572c",
+    "name": "Midnight Sun",
+    "author": "George",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d704b31a6d66c6fb66e8c5474baedcb8",
+    "name": "Mind Your Step",
+    "author": "bhamber",
+    "character_count": 29,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "594efdb92052ceaebf0b1caf6f2447bd",
+    "name": "Minion is Angel-protected & The Demon has 2 Bluffs",
+    "author": "Zets",
+    "character_count": 17,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e9acfa8e70e56b9489c316e12ea3ba86",
+    "name": "Minion Mayhem",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a5b8f0627138ce8287bcd44935f3b7c3",
+    "name": "Minions or Demons?",
+    "author": "Ekin Koker",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f3a3884dbc423db1a805bfa96d0be250",
+    "name": "Minuit a Fond la Caisse",
+    "author": "Quilava",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "fe62de8ab86f7a946f0b01d830837787",
+    "name": "Miserable Little Pile of Secrets",
+    "author": "Ben Burns",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6cfb05f52f51a705fb0ac9f1b04b8ae4",
+    "name": "Miss Information",
+    "author": "OJ",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a9b91e093abd0c940e4f9c2e3d2c8f94",
+    "name": "Miss Register",
+    "author": "Axolator",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3eb3557038f7608f001b9ba8bd1be6b9",
+    "name": "Mojo Ojo Casa House",
+    "author": "Chlo",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "384de7dab6b5d41060cbd1dd7c85910d",
+    "name": "Monkey Do Math",
+    "author": "Jams, Josh, Kerry, & Zak",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f977c39e62befd31f5e0143424d77a5b",
+    "name": "Muppets on a Clocktower",
+    "author": "Patrick and Josie",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "7cc751d4a3d48977b6ad7515b17cf718",
+    "name": "Murder and Mayhem V2",
+    "author": "DarkLight",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "ba19a7a0d41c5e2ed5ca1db129cab68a",
+    "name": "Needle in the Haystack",
+    "author": "Dakota",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "9992d118940b3981624268890fca425e",
+    "name": "Night-Vision Goggles",
+    "author": "Axolator",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "246b9e09e88468043a6ecce8ff7867bd",
+    "name": "No Greater Joy",
+    "author": "Steven Medway",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "fa5840a9541e1c50b421ca47010b63a8",
+    "name": "No Roles Barred",
+    "author": "Andrew Pichot",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "df527fcd373d05ba04d6f4d797302905",
+    "name": "Nobody Fucking Move",
+    "author": "Brockwell",
+    "character_count": 16,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f7ad260f62acf2895d25aaa2a419bd6b",
+    "name": "Off to see the Wizard",
+    "author": "Crispy Duck",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "fe70883386cdbd7e96d2a079cd6333b3",
+    "name": "Oil of Vitriol",
+    "author": "Angelo",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "26123d6132c1598ec528d511f1aa3136",
+    "name": "Ojo And Their Little Friend V2",
+    "author": "Riggs",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "949dd310a1e0acb03cec25b78ec677f7",
+    "name": "Okay...ButHearMeOut",
+    "author": "FMJason",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "ee04a93b3bcc02a2d3a7a8691b4f3425",
+    "name": "On Thin Ice",
+    "author": "Jonhoo",
+    "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e69e8bd87bc80f6ca740608b1c9d9aa1",
+    "name": "One Cat Mosh Pit",
+    "author": "Nyctophonik",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "44305b3fc4267bc76726dd142b3316a5",
+    "name": "One in one out",
+    "author": "Baron von Klutz",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "02b0ee3ea2b0f0f9dc53ca584fd63a7d",
+    "name": "One Week Ultimate Copyright",
+    "author": null,
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "714ee07d0d4f224b97b0de0858f9d0ec",
+    "name": "Onion Pies",
+    "author": "Tej",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "2e12fb102956e34e81fbf64f6011cef4",
+    "name": "Oops All Outsiders v2",
+    "author": "Malakai",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a7a3af57b5b336a687ceb47908da94ee",
+    "name": "Oops! All Outsiders",
+    "author": "Urban Minotaur",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "da61a4b3bb5241bd6d98f6d90eb42565",
+    "name": "Our Mutual Friend",
+    "author": "CaffeineBoost",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "835cf8a5c3ab2ecf0823574cde3420a4",
+    "name": "Outed",
+    "author": "Milk",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e4567d988975d04d60215262908cbb33",
+    "name": "Outed Evil",
+    "author": "Manny",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "2b60c75a61a6e1ff4fb431679b3b9b69",
+    "name": "Over the River",
+    "author": "Andrew Nathenson",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "862a11f4031f84812b38d3c83b0c46fb",
+    "name": "Parlor Oil & Snake Tricks",
+    "author": "Sybillian",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "645a500c00e90bc3f300e8d4b4dd4158",
+    "name": "Pass the Parcel!",
+    "author": null,
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5945e4bb2cbfd20241a25a1f78499bda",
+    "name": "Pearly Gates",
+    "author": "Hannah",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a7e4886a1091b4cea4e89c41b5d63e9d",
+    "name": "Persian Paranoia",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d6d220ed95570340ef73d67c7ed79f5f",
+    "name": "Pies Baking",
+    "author": "Ryback",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "782a767e763dde1b0d927b7d4228e61f",
+    "name": "Pit-Hag and Vortox go on a Holiday",
+    "author": "Zets",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "c42f59018b76840f079d08970287b196",
+    "name": "Plus Ça Change",
+    "author": "CaffeineBoost",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "96c4584e50ec315891ff6120df313344",
+    "name": "Poppy Grows the Evil",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5ce5517bc1c111d31272867010c9e37d",
+    "name": "Poppyganda",
+    "author": "Dan",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "067cc75953d098ee1705b0f0c2040b29",
+    "name": "Psychosocial",
+    "author": "Dave",
+    "character_count": 29,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "be44103b1d9c5e047e472a6f365e0b5d",
+    "name": "Punchy",
+    "author": "Zets",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "55ccccca92e88c15d5a5684b426c2a0c",
+    "name": "Punchy v3.8",
+    "author": "Zets",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "486cbe768f86fc6932d2c5853a8cb0b8",
+    "name": "Puzzle Solvin' 5.2",
+    "author": "Flashy",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "324a14b4b315fed58e7b3a24afcde063",
+    "name": "Quick Maths",
+    "author": "Fran 🐬",
+    "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "b4dfcd2a0b81bf29e1ee26934aaf7415",
+    "name": "Quis Custodiet Ipsos Custodes",
+    "author": "Dave",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "47951c3dc4b35acb0a222c46aa7d0d3d",
+    "name": "Race to the Bottom",
+    "author": "Evin Donohoe",
+    "character_count": 13,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "8df984f14c65b59cea68e6b0ff11aa53",
+    "name": "Recruitment Event",
+    "author": "Ekin Koker",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "91463416f1f164c84fa7611850701009",
+    "name": "Red Stick, Blue Stick",
+    "author": "Ekin and Navean",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "bbf0b96ecc95a9bd16115e6a63bb2cca",
+    "name": "Regalia",
+    "author": "AV",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "9f1654a972a06ac4a960fe4eba8b6e07",
+    "name": "Reptiles II: Lizard in the City",
+    "author": "Aero",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a36b056a561dac6541a289910665161d",
+    "name": "Reptiles!",
+    "author": "Aero",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e99ebb273c0399a3d1d618de01a964d2",
+    "name": "Revenge of the Martian Vampires",
+    "author": "Rope",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "829bc0c8d897c11b6ee5f3ee9423ddd6",
+    "name": "Ride the Cyclone",
+    "author": "Paradox",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6bbf7b9d0eb165dc129dde9a2277125f",
+    "name": "Rivers Overflowing",
+    "author": "Schnauzer",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5b873a1f469d1ea3c33db95d0e340228",
+    "name": "Rochambeau",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "719a4506cccc33ec4f1dc38cf332293a",
+    "name": "Role Swap & Cheese 🧀",
+    "author": "Bambi🥔",
+    "character_count": 13,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "c4e4070a2f74a4ed0ecab3b0225d074c",
+    "name": "Royal Institute Of Tyranny",
+    "author": "Paradox",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3856ad93b1ea9494a0d016875e5ee5ef",
+    "name": "Samsara the Cycle of Life",
+    "author": "A Hindu1s",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e83ed5101e22e23f5d9713f6b2dcc7cf",
+    "name": "Say Again?",
+    "author": "Patters",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "1013b2db27724c2f7d0b0129ac16911b",
+    "name": "Scaffolding",
+    "author": "Wayne",
+    "character_count": 29,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "68014fefe005cb96e44914916ef253f3",
+    "name": "Sects & Brewing",
+    "author": "Steven Medway",
+    "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "ebbc7339f1dc9bc9a04a2c33eeed20de",
+    "name": "Sects and Violets",
+    "author": "The Pandemonium Institute",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "458002dfc3fe7ed8f21e4a50e1d4dc07",
+    "name": "Sects Dungeon",
+    "author": "Urban Minotaur",
+    "character_count": 29,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d072127aa570b8e4eea8ba90ae6be65a",
+    "name": "Selling Promises and Potions",
+    "author": "Tyler Nafe",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0b3a67f89582f24a5f8ec89566d78735",
+    "name": "Separation Of Church and State",
+    "author": "Aero",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5b31a646476ce4abc77aed40cfb4c054",
+    "name": "Servant of Osiris",
+    "author": "Schnauzer",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "632a25cd4f17644c98e83d06cd13415e",
+    "name": "Shabulous",
+    "author": "FMJason and Bambi",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3ec0fa96bf6ad1e3b2e3acd0865474a3",
+    "name": "Shadow Puppets",
+    "author": "Elixir",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6c571c4fccbb583735b68a5625c1c701",
+    "name": "Shell Game",
+    "author": "Nick R",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f8ecd5bbd90818834ec2915c01505a5e",
+    "name": "Show Me the Majesty",
+    "author": "Hazel Quill",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "949cd63ea5fe2e012c7a9dda9b5717da",
+    "name": "Show Me Wonders",
+    "author": "DinosaurSatan",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "7f6b89ec18d3cd641ed8d2481cd8fdf4",
+    "name": "Sisyphus Happy",
+    "author": "Emma",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "427cfefaefec747ec3de49be7d936569",
+    "name": "Skadoosh",
+    "author": "~Cam~",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3c8fbb7326813b65502ca04c2f24d500",
+    "name": "Smol Angy Parasite GF",
+    "author": "Habby",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e4b1679b05f1687055cb2083497df9b8",
+    "name": "Snack Sized 1.1",
+    "author": "Flyingludicolo",
+    "character_count": 14,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "2e24922d34b49784189dd1a471268d03",
+    "name": "Social Square",
+    "author": "Teemu",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e494560f55977c03b487da9638860154",
+    "name": "Social Strings V2.2",
+    "author": "McGiggles",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "394f82689e613254e38d713904bd4f2f",
+    "name": "Sock Puppet Sullivan's Revenge",
+    "author": null,
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0739b20a4d04351ae36c0a9f253f5a54",
+    "name": "Soldiers of Misfortune v2",
+    "author": "Piranha",
+    "character_count": 13,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "b339b16923dd78de0ff2e62230c0d1bf",
+    "name": "Somebody Please Kill Me",
+    "author": "Hungry",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d228ad16a0565182df8064f49eade92b",
+    "name": "Soul-Bound",
+    "author": "AV",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "45c6e019ac54c2937268580c22d17eb2",
+    "name": "Spooky Tea",
+    "author": "Zets",
+    "character_count": 14,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "44afcc26703dd62668807f54f41baaee",
+    "name": "Spooky Tea 2: Very Spooky",
+    "author": "Zets",
+    "character_count": 15,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "b92035aa8ea9d6c666f9ccdc57d717cb",
+    "name": "Star Pass All Stars",
+    "author": "Ekin",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "640cf8d8db570c5dbf55b7440957295c",
+    "name": "Star's Edge",
+    "author": "Delta",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "354aee9c940c105fe37f8e14ab3393ba",
+    "name": "Stiff friends on stiffer grounds",
+    "author": "Natlove",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "23ef41facff3d562f8cab382c4f9fe2a",
+    "name": "Stringing 'Em Along Redux",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "b37dc81a4cd1177de0878b43a2dfa71b",
+    "name": "Strings Pulled",
+    "author": "Various",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "332ec62c609b871f5d657e79f7f6d090",
+    "name": "Strings Pulling",
+    "author": "Ben Burns",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "4d38074775257af877536b4fdb202df2",
+    "name": "Sultan's Palace",
+    "author": "Bangs 😎",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5a82dcd278cdb05c19b4cea9cb544dce",
+    "name": "Swamp Pies Wailing",
+    "author": "Etreides",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "ddbf30d14a760193a8033fbe1ae58163",
+    "name": "Switchcraft",
+    "author": "AV",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "62cbb19f6e4de699899c128ae6d21beb",
+    "name": "Symptoms of Paranoia",
+    "author": "Andrew",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "2ac4828164bd352d4db14342b86ec626",
+    "name": "Teensy Brewing",
+    "author": "DexterD",
+    "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "58d604e0796088469941c767e4e96136",
+    "name": "The Academy",
+    "author": "patters",
+    "character_count": 21,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e6b3a04f0d7f70e081ed44102746b55f",
+    "name": "The Apple Of My Eye",
+    "author": "Hungry",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "14ff6bd3b78be195fc323f038a8fb702",
+    "name": "The Ballad of Seat 7",
+    "author": "TrashWarlock",
+    "character_count": 29,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "238149040eed7add4dd2eee778d4e548",
+    "name": "The Certainty Paradox",
+    "author": "MK",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "08ea67c795121742d720c6f32cddac0f",
+    "name": "The final nail in the boffin",
+    "author": "Dylan",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6d4e6ac9a27b3719f46404bde3244f67",
+    "name": "The Grand Tor",
+    "author": "Ben and Jams",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d0cf83c81fd49b913086db7fd48757ab",
+    "name": "The Hermit Learns 3 Bluffs",
+    "author": "bhamber",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "331fb75b096b15b160ff86d546baecd9",
+    "name": "The Horrifying Spectacle of Public Executions",
+    "author": "Navean",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "33cb036bef912ffed9a153bee02381ca",
+    "name": "The Jamie Oliver Petrol Station",
+    "author": "George",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "1afd24b13f74727cc09868a00f33b560",
+    "name": "The Keening Call",
+    "author": "Ember",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3615df2e8edefa01a511c16a61281445",
+    "name": "The Krabby Patty Secret Formula",
+    "author": "Someone",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "1fd4589ed4290dadf025628e87036df0",
+    "name": "The Last Dinner Party",
+    "author": "Paradox",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "017f74540113ced74afe1152762673e6",
+    "name": "The Lord Mayor's Shit-Show",
+    "author": "SilentInAWay",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "4f5b5a7fb170fe3dc64699d73f32ce2f",
+    "name": "The Midnight Oasis",
+    "author": "Zets",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f0c172fb58705a607e34f742ec528096",
+    "name": "The Minotaur's Labyrinth",
+    "author": "Urban Minotaur",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "46726fe161a29e910c38d61ff0584d0e",
+    "name": "The Ones You Least Expect",
+    "author": "Taylor & Viva La Sam",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "935cde9e69a7e51002d4b60426f9fc2b",
+    "name": "The Pageant 2.2",
+    "author": "Tan",
+    "character_count": 14,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "aeb22d87450ba1464ccd0639e3927ad4",
+    "name": "The Passage of Time",
+    "author": "Delta",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3ab990b2c7ee4001afa6a0e1d479a1ef",
+    "name": "The Perfect Alibi",
+    "author": "Schnauzer",
+    "character_count": 13,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6d23ac7c2482e658664c195a92024965",
+    "name": "The Phantom Detectives",
+    "author": "Schnauzer",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "ef31a83b68e256919b1903ac91c0852e",
+    "name": "The Rainbow Connection",
+    "author": "Dakota Avery",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f902b00ae119ffef774f2db9f720cae4",
+    "name": "The Return of Jafar",
+    "author": "jimothy",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "53ae12747b5885b8802d68fad35d0759",
+    "name": "The Rose Bride",
+    "author": "Rhea",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "7756f178f1409ed4ed82ef6b89f3c4b4",
+    "name": "The Spy Who Pinged Me",
+    "author": "Matheus Ogleari",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "de0ebd18b9a28a49fa885f0508fff680",
+    "name": "The Squall of Cthulhu",
+    "author": "Angelo & Nick",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "ba5ba5a1f7d55cde50e956d627a6fbd7",
+    "name": "The Stormcatcher Favors the Damsel",
+    "author": "HABBY!",
+    "character_count": 13,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "b4e6b1a3b5a75d42171255dde0cda6da",
+    "name": "The Wild Hunt",
+    "author": "Ember",
+    "character_count": 32,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "fb0e7547bf7112ed9cb921edeeb488e6",
+    "name": "They'd be turning in their graves",
+    "author": "Jack",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f0438419653e8ec46844f7a9dab11d01",
+    "name": "Think you can Clocktower",
+    "author": null,
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "4d9acb227f9da78da09332c34d6d7757",
+    "name": "Thinking is Cheating",
+    "author": "Struck",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5653d83c7f7329d5bea23edd96094ec6",
+    "name": "This Here, Vizier.",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "93b19108f0de063fe8f0b04e8b7bb42a",
+    "name": "Tightly Knit",
+    "author": "McGiggles",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d8afdb089f7c24bbe6e8e99a3bb7594c",
+    "name": "Tour",
+    "author": "Axolator",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "7dffb511c5576796f9cb48f54698db58",
+    "name": "Trained Killer",
+    "author": "Ekin",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "067e964bb0604b42b3ea7cc5e1111bd8",
+    "name": "Trouble Brewing",
+    "author": "The Pandemonium Institute",
+    "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "609f096cd5796ec5dbed57d7c91691e9",
+    "name": "Trouble Brewing on Expert Mode",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "57b879dcc9ad9703519bd755b470316b",
+    "name": "Trouble in Whoville",
+    "author": "Ekin",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5b2d599d5d31267123c98e40d9549e2c",
+    "name": "Trouble with Violets",
+    "author": "Ben Burns",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "15ee3ac49a7e0ccb112f0dd6fa512567",
+    "name": "Trust",
+    "author": "Milk",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "31b209f93374c2c63ef437263fb13ddc",
+    "name": "Trust Issues in Alcatraz",
+    "author": "Madeline",
+    "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "13ddfa6d21e418ab9daffc488f198047",
+    "name": "Trust Redux",
+    "author": "Milk",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "aba7b804a4beb621593c9fbe37dd639c",
+    "name": "Turbulence Boiling",
+    "author": "Ian (UrbanMinotaur)",
+    "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "99b1c22f878f4c4fbe6ca5b54125f1d6",
+    "name": "Turf War V 1.2",
+    "author": "Mark Zeleznick",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f3868c7d6a522b23323c7ee8a2d4725b",
+    "name": "Twinning / Nadinesyville",
+    "author": "Nadine",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "58c58311fca61a21796883846250326f",
+    "name": "Twists, Turns, and a Tinker",
+    "author": "Bønes",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "3944afa94e3bb66a1b6054e9b41f46fe",
+    "name": "Uncertain Death",
+    "author": "Matt",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6109c4bf5bc3af6bef4e5fb5ff48e3c3",
+    "name": "Unfriendly Invitations 1.2",
+    "author": "Hannah",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f9cb3a4f949f43003dbda0e65c2238f6",
+    "name": "Unholier Than Thou",
+    "author": "Urban Minotaur",
+    "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "c5420aef2fd4daaa28c65dfd4848667c",
+    "name": "Until Morale Improves",
+    "author": "Meeks",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "043ac75bd20d027e19775801b4261bb2",
+    "name": "Untitled",
+    "author": null,
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "222beb06e1484b172d12822696439b19",
+    "name": "Up the Mountain",
+    "author": "Jams",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f902e26d87d00f8d4b74d99302f8f365",
+    "name": "Veiled Threats",
+    "author": "Urban Minotaur",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "2c6f8c97e9ddeb3bbba99f61b0600d38",
+    "name": "Vigormortis High School",
+    "author": null,
+    "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "b556512aef03dd108ff0fb8ffd263bb8",
+    "name": "Visitors",
+    "author": "Zets",
+    "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "6dbe3c671189b2f6162c1844eb8d641c",
+    "name": "Wackamole",
+    "author": "Bor",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "1d9948a06b445122aa8884a97b7b8207",
+    "name": "War of Whispers",
+    "author": "McGiggles",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5a43786387426ccc6355159287d8e92c",
+    "name": "Wherein Everyone is a Witch-Cursed Recluse",
+    "author": "Etreides",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "99fd42ade6bfc545ae8cb962d6721f92",
+    "name": "Whiskers on Kittens v1.3",
+    "author": "Jax",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "b774ecc042a1fdd264fa82f21fdf3f80",
+    "name": "Whose Cult Is It Anyway?",
+    "author": "Aero",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "58f853eb1ac16af0e70a2087e298c8a6",
+    "name": "Whose Role Is It Anyway",
+    "author": "Courtney McClannahan",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "59c8a83a1e5de8541f8b13cc221ba9d6",
+    "name": "Witch Hunt!",
+    "author": "Nick B.",
+    "character_count": 20,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "aca78682f8a6d02babf223e60203c12e",
+    "name": "Witchcraft",
+    "author": "Doomduck",
+    "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "c74cf025991f12948a5f994c722cd66f",
+    "name": "With Friends Like These?",
+    "author": "Patters",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "dd34ced061a8123afea106d145c14409",
+    "name": "With Great Power",
+    "author": "Avery",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "31cb83f341a12698ce8096c0fc8f15e3",
+    "name": "Word Around Town",
+    "author": "autumnkitty",
+    "character_count": 29,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "1163ddd0886f7fc4091f2caf14760ae6",
+    "name": "Words with Friends",
+    "author": "Schnauzer",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "01b98404548844c00d356a27eeaff1a6",
+    "name": "Wuthering Nights",
+    "author": "Nick Brainard",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "7876fc859264ca51f1254560be4cfa86",
+    "name": "Xenophobia",
+    "author": "Evil Steve",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e7ccfdb4d7b97bed74337feca25d3079",
+    "name": "Yapville",
+    "author": "Shack",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5ee57eb9808395efd1d58c82a7100f02",
+    "name": "Yes, Your Imminence",
+    "author": "Mevolas Rubenido",
+    "character_count": 17,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "72d565589c4e5b33db25fdc7cc8f10b2",
+    "name": "You Can't Handle the Truth",
+    "author": "Jsmoothnyc & Ben Burns",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d5bd7ccca4469590e1c3bbbcba121196",
+    "name": "You Can(not) Pick Your Friends",
+    "author": "Sammiches",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "644981338af9a84a31bba1df430edd3f",
+    "name": "You Slay Me",
+    "author": "Mark Zeleznick",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "067d594996b9807cf7fef508c17ca92c",
+    "name": "Your Name will be Anonymous",
+    "author": "eevee",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  }
+]
