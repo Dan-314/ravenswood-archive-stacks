@@ -6,7 +6,7 @@ A community-owned, content-addressed archive of [Blood on the Clocktower](https:
 
 - Each script is stored as a standard BotC JSON file in `scripts/`
 - Filenames are the MD5 hash of the file contents (content-addressed = automatic dedup)
-- Scripts are pure BotC JSON — usable directly in any BotC tool (clocktower.online, etc.)
+- Scripts are pure BotC JSON - usable directly in any BotC tool (clocktower.online, etc.)
 - `index.json` provides a searchable index of all scripts with name, author, and source info
 
 ## Using the Archive
@@ -25,7 +25,7 @@ git clone https://github.com/Dan-314/ravenswood-archive-stacks.git
 [
   {
     "hash": "abc123...",
-    "name": "Trouble Brewing Modified",
+    "name": "Trouble Brewing",
     "author": "Steven Medway",
     "character_count": 25,
     "sources": ["ravenswoodarchive"]
