@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BotC Script",
+  "description": "Blood on the Clocktower script in standard JSON format",
+  "type": "array",
+  "minItems": 1,
+  "prefixItems": [
+    {
+      "type": "object",
+      "description": "Script metadata (_meta block)",
+      "properties": {
+        "id": { "type": "string", "const": "_meta" },
+        "name": { "type": "string", "minLength": 1 }
+      },
+      "required": ["id", "name"]
+    }
+  ],
+  "items": {
+    "oneOf": [
+      {
+        "type": "string",
+        "description": "Official character ID reference"
+      },
+      {
+        "type": "object",
+        "description": "Character entry (official reference or custom definition)",
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "name": { "type": "string" },
+          "team": {
+            "type": "string",
+            "enum": ["townsfolk", "outsider", "minion", "demon", "traveller", "fabled", "loric"]
+          },
+          "ability": { "type": "string" },
+          "image": {
+            "oneOf": [
+              { "type": "string" },
+              { "type": "array", "items": { "type": "string" } }
+            ]
+          },
+          "firstNight": { "type": "number" },
+          "firstNightReminder": { "type": "string" },
+          "otherNight": { "type": "number" },
+          "otherNightReminder": { "type": "string" },
+          "reminders": { "type": "array", "items": { "type": "string" } },
+          "remindersGlobal": { "type": "array", "items": { "type": "string" } },
+          "setup": { "type": "boolean" },
+          "jinxes": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "id": { "type": "string" },
+                "reason": { "type": "string" }
+              },
+              "required": ["id", "reason"]
+            }
+          }
+        },
+        "required": ["id"]
+      }
+    ]
+  }
+}

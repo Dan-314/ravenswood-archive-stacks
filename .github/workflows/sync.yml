@@ -1,0 +1,156 @@
+name: Sync Scripts
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Daily at 3am UTC
+  workflow_dispatch:       # Manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Sync scripts from all sources
+        run: |
+          node -e "
+          const fs = require('fs');
+          const path = require('path');
+          const https = require('https');
+          const http = require('http');
+
+          function fetch(url) {
+            return new Promise((resolve, reject) => {
+              const mod = url.startsWith('https') ? https : http;
+              mod.get(url, res => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => {
+                  if (res.statusCode !== 200) return reject(new Error('HTTP ' + res.statusCode));
+                  resolve(JSON.parse(data));
+                });
+              }).on('error', reject);
+            });
+          }
+
+          async function syncSource(slug, manifest) {
+            if (manifest.sync_method !== 'github_action' || !manifest.api_endpoint) {
+              console.log('Skipping ' + slug + ' (sync_method=' + manifest.sync_method + ')');
+              return;
+            }
+
+            console.log('Syncing from ' + slug + ' (' + manifest.api_endpoint + ')...');
+            let cursor = null;
+            let total = 0;
+
+            while (true) {
+              let url = manifest.api_endpoint + '?limit=100';
+              if (cursor) url += '&cursor=' + cursor;
+
+              let response;
+              try { response = await fetch(url); }
+              catch (e) { console.error('Failed to fetch from ' + slug + ': ' + e.message); break; }
+
+              for (const script of response.scripts) {
+                // Write script file using JSON.stringify (matches Postgres jsonb::text format)
+                const content = JSON.stringify(script.raw_json);
+                fs.writeFileSync(path.join('scripts', script.hash + '.json'), content);
+
+                // Update source manifest
+                manifest.scripts[script.hash] = {
+                  source_id: script.source_id,
+                  source_url: script.source_url,
+                  synced_at: new Date().toISOString()
+                };
+                total++;
+              }
+
+              cursor = response.next_cursor;
+              if (!cursor) break;
+            }
+
+            // Write updated manifest
+            fs.writeFileSync(
+              path.join('sources', slug + '.json'),
+              JSON.stringify(manifest, null, 2)
+            );
+            console.log('Done syncing ' + slug + ': ' + total + ' script(s)');
+          }
+
+          async function main() {
+            const sourcesDir = 'sources';
+            for (const f of fs.readdirSync(sourcesDir)) {
+              if (!f.endsWith('.json')) continue;
+              const slug = f.replace('.json', '');
+              const manifest = JSON.parse(fs.readFileSync(path.join(sourcesDir, f), 'utf8'));
+              await syncSource(slug, manifest);
+            }
+          }
+
+          main().catch(e => { console.error(e); process.exit(1); });
+          "
+
+      - name: Rebuild index
+        run: |
+          node -e "
+          const fs = require('fs');
+          const path = require('path');
+
+          const scriptsDir = 'scripts';
+          const sourcesDir = 'sources';
+          const index = [];
+
+          // Load all source manifests
+          const sources = {};
+          for (const f of fs.readdirSync(sourcesDir)) {
+            if (!f.endsWith('.json')) continue;
+            const slug = f.replace('.json', '');
+            sources[slug] = JSON.parse(fs.readFileSync(path.join(sourcesDir, f), 'utf8'));
+          }
+
+          // Build index from script files
+          for (const f of fs.readdirSync(scriptsDir)) {
+            if (!f.endsWith('.json')) continue;
+            const hash = f.replace('.json', '');
+            const script = JSON.parse(fs.readFileSync(path.join(scriptsDir, f), 'utf8'));
+            const meta = script.find(e => e && e.id === '_meta') || {};
+            const chars = script.filter(e => typeof e === 'string' || (e && e.id !== '_meta'));
+
+            // Find which sources have this hash
+            const scriptSources = Object.entries(sources)
+              .filter(([, s]) => s.scripts && s.scripts[hash])
+              .map(([slug]) => slug);
+
+            index.push({
+              hash,
+              name: meta.name || 'Untitled',
+              author: meta.author || null,
+              character_count: chars.length,
+              sources: scriptSources
+            });
+          }
+
+          index.sort((a, b) => a.name.localeCompare(b.name));
+          fs.writeFileSync('index.json', JSON.stringify(index, null, 2));
+          console.log('Index rebuilt with ' + index.length + ' scripts');
+          "
+
+      - name: Commit and push
+        run: |
+          git config user.name "archive-bot"
+          git config user.email "bot@ravenswoodarchive.com"
+          git add scripts/ sources/ index.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            count=$(git diff --cached --name-only -- scripts/ | wc -l)
+            git commit -m "sync: ${count} script(s) updated"
+            git push
+          fi

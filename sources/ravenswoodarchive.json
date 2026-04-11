@@ -1,0 +1,8 @@
+{
+  "name": "Ravenswood Archive",
+  "url": "https://ravenswoodarchive.com",
+  "contact": "dan@ravenswoodarchive.com",
+  "sync_method": "github_action",
+  "api_endpoint": "https://ravenswoodarchive.com/api/export-scripts",
+  "scripts": {}
+}
