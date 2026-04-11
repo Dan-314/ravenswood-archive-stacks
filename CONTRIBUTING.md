@@ -4,7 +4,7 @@ Thanks for helping preserve BotC scripts! This guide covers how to add scripts t
 
 ## Script File Format
 
-Each script file in `scripts/` is a **standard BotC JSON array** — the same format used by clocktower.online and other BotC tools:
+Each script file in `scripts/` is a **standard BotC JSON array** - the same format used by botc.app and other BotC tools:
 
 ```json
 [
