@@ -56,6 +56,11 @@ index.json         Auto-generated searchable index
 
 ## License
 
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. See [LICENSE](LICENSE).
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - public domain. See [LICENSE](LICENSE).
 
-Blood on the Clocktower is created and owned by [The Pandemonium Institute](https://www.thepandemoniumInstitute.com/).
+The CC0 waiver applies to the repository structure, index files, tooling, documentation, and any original contributions made to this archive. It does not - and cannot - override or waive rights held by third parties. In particular:
+
+- **Blood on the Clocktower** is created and owned by [The Pandemonium Institute](https://www.thepandemoniumInstitute.com/). All trademarks, character names, game mechanics, and related intellectual property remain theirs.
+- **Script authors** retain whatever rights they hold in their creative work (e.g. the selection and arrangement of characters, flavour text, or original homebrew content). Inclusion in this archive does not transfer those rights.
+
+In short, the CC0 dedication covers only the rights that the contributors to this repository actually hold. Everything else belongs to its respective owners.
