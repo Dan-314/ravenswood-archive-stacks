@@ -324,6 +324,15 @@
     ]
   },
   {
+    "hash": "7c0f53606d9347f4072d6901d0dc0604",
+    "name": "Buyer's Remorse",
+    "author": "mist",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "f00f747d6dc1812e262a277ba7c4bf44",
     "name": "Castlegaynia",
     "author": "Hallow",
@@ -1242,6 +1251,15 @@
     ]
   },
   {
+    "hash": "2891b052647d53eff4d413927608c88a",
+    "name": "Love Thy Neighbor",
+    "author": "Austin",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "d98919d6d5ae4a6391487d74c89e5f43",
     "name": "Luigi's Mansion",
     "author": "AlejoFBlack",
@@ -1318,6 +1336,15 @@
     "name": "Manually Summoned Monsters",
     "author": "Schnauzer",
     "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "b68224c0720f373d86fd435218999b40",
+    "name": "Me And My Scruples",
+    "author": "elzbth",
+    "character_count": 26,
     "sources": [
       "ravenswoodarchive"
     ]
@@ -1543,6 +1570,15 @@
     "name": "One Cat Mosh Pit",
     "author": "Nyctophonik",
     "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a2e4caadb255dc1fc688b393a52d912c",
+    "name": "One Day More",
+    "author": "Robe",
+    "character_count": 28,
     "sources": [
       "ravenswoodarchive"
     ]
@@ -2403,6 +2439,15 @@
     ]
   },
   {
+    "hash": "1de9b49046f630a4cf51421323c560ef",
+    "name": "The River Styx",
+    "author": "Rhea",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "53ae12747b5885b8802d68fad35d0759",
     "name": "The Rose Bride",
     "author": "Rhea",
@@ -2511,6 +2556,15 @@
     ]
   },
   {
+    "hash": "6f2cddc0cb75e2804cd86ce6e537497d",
+    "name": "Trouble Boiling Over",
+    "author": "Lorion",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "067e964bb0604b42b3ea7cc5e1111bd8",
     "name": "Trouble Brewing",
     "author": "The Pandemonium Institute",
@@ -2569,6 +2623,15 @@
     "name": "Trust Redux",
     "author": "Milk",
     "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "09242bb9c8872f07a18fd68ffd8e4948",
+    "name": "TURBO DIVORCE",
+    "author": "Pigeon & Entropy",
+    "character_count": 26,
     "sources": [
       "ravenswoodarchive"
     ]
