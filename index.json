@@ -576,6 +576,15 @@
     ]
   },
   {
+    "hash": "43c819996359b1337e580eecd485f73d",
+    "name": "Discworld",
+    "author": "BobertJoe",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "f3b7c307fd3d06994f4a3736b89a1ac9",
     "name": "Do You Believe in Balloonists?",
     "author": "Lorion",
@@ -670,6 +679,15 @@
     "name": "Everyone Can Play",
     "author": "Ben Burns",
     "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "bd3db0c6789c17e6f29b4b0e5d5b6922",
+    "name": "Execution Confusion",
+    "author": "TPHG",
+    "character_count": 30,
     "sources": [
       "ravenswoodarchive"
     ]
@@ -2277,6 +2295,15 @@
     ]
   },
   {
+    "hash": "dd2c9afe7ab063bf2e1844e9e57ba17f",
+    "name": "The Delphic Oracle",
+    "author": "Cam",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "08ea67c795121742d720c6f32cddac0f",
     "name": "The final nail in the boffin",
     "author": "Dylan",
@@ -2839,6 +2866,15 @@
     "name": "With Great Power",
     "author": "Avery",
     "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "75046e1730051bfe7e1f505fe1a1a430",
+    "name": "Witness Protection",
+    "author": "atreys",
+    "character_count": 12,
     "sources": [
       "ravenswoodarchive"
     ]
