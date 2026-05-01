@@ -45,6 +45,15 @@
     ]
   },
   {
+    "hash": "4c1dae0527e01f757ad37effb1a4cb40",
+    "name": "A Lleech of Distrust",
+    "author": "OJ",
+    "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "fca571f0c7c05164c7a00eee14f70e30",
     "name": "A Lleech of Distrust",
     "author": "OJ",
@@ -173,6 +182,15 @@
   {
     "hash": "b55deffdcfde0536f5c83f9ac3233460",
     "name": "Bad Apple",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "68aad7df9618c6eae3ad2d6801f900cd",
+    "name": "Bad Moon Rising",
     "author": null,
     "character_count": 25,
     "sources": [
@@ -1219,6 +1237,15 @@
     "name": "Laissez un Carnaval",
     "author": "Noel",
     "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "220befc440a3b98c8c9a9cb1637e58f4",
+    "name": "Laissez un Faire",
+    "author": null,
+    "character_count": 11,
     "sources": [
       "ravenswoodarchive"
     ]
