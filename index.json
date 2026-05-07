@@ -1422,6 +1422,15 @@
     ]
   },
   {
+    "hash": "9147ba6a68cc5de05df3b229f07ea904",
+    "name": "Masquerading",
+    "author": "Brockwell",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "b68224c0720f373d86fd435218999b40",
     "name": "Me And My Scruples",
     "author": "elzbth",
@@ -1975,6 +1984,15 @@
     "name": "Role Swap & Cheese 🧀",
     "author": "Bambi🥔",
     "character_count": 13,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a00a9c1553ce3dadad8a22bffa2e70af",
+    "name": "ROOTS",
+    "author": "PiTBody",
+    "character_count": 18,
     "sources": [
       "ravenswoodarchive"
     ]
@@ -2668,6 +2686,15 @@
     "name": "Trouble Brewing",
     "author": "The Pandemonium Institute",
     "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0b0b56c8f3e3d6dec24de85f65bf8c76",
+    "name": "Trouble Brewing",
+    "author": "The Pandemonium Institute",
+    "character_count": 27,
     "sources": [
       "ravenswoodarchive"
     ]
