@@ -198,6 +198,15 @@
     ]
   },
   {
+    "hash": "7c92dc56191b87501aa8d57112c9b3c9",
+    "name": "Bad Moon Rising",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "d33d7916042ab59a0ac7a6b037cdb1f9",
     "name": "Bad Moon Rising",
     "author": "The Pandemonium Institute",
@@ -307,6 +316,15 @@
   },
   {
     "hash": "06d596a6f3b106e458ddfa814bccfaa9",
+    "name": "Boozling",
+    "author": "Lau",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "843c5cb1addec05d8111f01fe053b072",
     "name": "Boozling",
     "author": "Lau",
     "character_count": 25,
@@ -2844,10 +2862,28 @@
     ]
   },
   {
+    "hash": "0b3f1e2f23882763a7c6301fa95c5bdc",
+    "name": "Untitled",
+    "author": null,
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "1aab9c9b3211a6c9de35280cb7d003a4",
     "name": "Untitled",
     "author": null,
     "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "75b1131dfa3a3df841c3438f5c6ed2c6",
+    "name": "Untitled",
+    "author": null,
+    "character_count": 26,
     "sources": [
       "ravenswoodarchive"
     ]
