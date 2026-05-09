@@ -108,6 +108,15 @@
     ]
   },
   {
+    "hash": "fc385f2758fbe9b6cd2dc34c6eed39e1",
+    "name": "An Eldritch Demonstration",
+    "author": "Ben Burns",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "44709bf66465876f75833fbf31ac867a",
     "name": "Animal Kingdom",
     "author": "Ekin",
@@ -216,6 +225,15 @@
     ]
   },
   {
+    "hash": "f9bd7e0edbd750e7c35eefff4aad19b9",
+    "name": "Bad Moon Rising",
+    "author": "The Pandemonium Institute",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "0d715dde02b68128f1804580ca0dc709",
     "name": "Bait and Switch",
     "author": null,
@@ -301,6 +319,15 @@
     "name": "Birthday Feast!",
     "author": "Malashaan",
     "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e8edccaced4ff5fec050957bcf47fcf4",
+    "name": "Blabbermouth",
+    "author": "Mateo Price",
+    "character_count": 22,
     "sources": [
       "ravenswoodarchive"
     ]
@@ -756,6 +783,15 @@
     ]
   },
   {
+    "hash": "2c45ee7d062e6e7220e2508b4b0866ee",
+    "name": "Extension Cord",
+    "author": "Viva La Sam",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "4c9d34a76f1e4b3a699883adf27e265d",
     "name": "Extension Cord",
     "author": "Viva La Sam",
@@ -1093,6 +1129,15 @@
     "name": "Indigestion Brewing",
     "author": "Mozart Is Lift Music",
     "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "e16e9c734df62d9fb2af3ec0e7e3f58c",
+    "name": "Infernal Alche-mini",
+    "author": "Mevolas Rubenido",
+    "character_count": 14,
     "sources": [
       "ravenswoodarchive"
     ]
@@ -1441,6 +1486,15 @@
   },
   {
     "hash": "9147ba6a68cc5de05df3b229f07ea904",
+    "name": "Masquerading",
+    "author": "Brockwell",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f54f4938ba81395309dd9b65370ddae7",
     "name": "Masquerading",
     "author": "Brockwell",
     "character_count": 30,
@@ -2061,6 +2115,15 @@
     ]
   },
   {
+    "hash": "b0311b607bd8b811c0e41be3cdea42df",
+    "name": "Sects & Violets",
+    "author": "The Pandemonium Institute",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "ebbc7339f1dc9bc9a04a2c33eeed20de",
     "name": "Sects and Violets",
     "author": "The Pandemonium Institute",
@@ -2520,6 +2583,15 @@
     ]
   },
   {
+    "hash": "ffd897977d61131df8c1157e31c2ef82",
+    "name": "The Ones You Least Expect",
+    "author": "Taylor & Viva La Sam",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "935cde9e69a7e51002d4b60426f9fc2b",
     "name": "The Pageant 2.2",
     "author": "Tan",
@@ -2722,6 +2794,15 @@
     "name": "Trouble Brewing on Expert Mode",
     "author": null,
     "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "7b9adc99f6011a59b28d246dc1876e04",
+    "name": "Trouble Cooking",
+    "author": "PiTBody",
+    "character_count": 33,
     "sources": [
       "ravenswoodarchive"
     ]
