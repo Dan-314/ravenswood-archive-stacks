@@ -45,6 +45,15 @@
     ]
   },
   {
+    "hash": "0b49df0e0d2df9f7c98b1ebcf6cc9643",
+    "name": "A Lleech of Distrust",
+    "author": "OJ",
+    "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "4c1dae0527e01f757ad37effb1a4cb40",
     "name": "A Lleech of Distrust",
     "author": "OJ",
@@ -112,6 +121,15 @@
     "name": "An Eldritch Demonstration",
     "author": "Ben Burns",
     "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "ea1182566d1969f8f5291dc1525ad9ab",
+    "name": "Angels & Demons",
+    "author": "ZetsuTheFirst",
+    "character_count": 18,
     "sources": [
       "ravenswoodarchive"
     ]
@@ -1971,6 +1989,15 @@
     ]
   },
   {
+    "hash": "9bda0dd4a43ec2b26ea87e5e9faa5a8d",
+    "name": "Race to the Bottom",
+    "author": "Evin Donahoe",
+    "character_count": 13,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "8df984f14c65b59cea68e6b0ff11aa53",
     "name": "Recruitment Event",
     "author": "Ekin Koker",
@@ -2056,6 +2083,15 @@
     "name": "Role Swap & Cheese 🧀",
     "author": "Bambi🥔",
     "character_count": 13,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "26e8e7659a978a68588b2872d660b5ca",
+    "name": "ROOTS",
+    "author": "PiTBody",
+    "character_count": 19,
     "sources": [
       "ravenswoodarchive"
     ]
@@ -2448,6 +2484,15 @@
     ]
   },
   {
+    "hash": "4476abf8113ef62e44021b67b51301fa",
+    "name": "The Ballad of Seat 7",
+    "author": "TrashWarlock",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "238149040eed7add4dd2eee778d4e548",
     "name": "The Certainty Paradox",
     "author": "MK",
@@ -2467,6 +2512,15 @@
   },
   {
     "hash": "0010737a672e435cf49ed5a1cbd161f7",
+    "name": "The Field of Pink and Gold",
+    "author": "PiTBody",
+    "character_count": 35,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "0f9cc570d417883c702af8874db8ac7e",
     "name": "The Field of Pink and Gold",
     "author": "PiTBody",
     "character_count": 35,
