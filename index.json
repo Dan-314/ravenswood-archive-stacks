@@ -18,6 +18,15 @@
     ]
   },
   {
+    "hash": "a9fd0ab5be58578565b3bb09741066b3",
+    "name": "15 Minutes to Midnight",
+    "author": "Aaron Sleege",
+    "character_count": 13,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "d03b048ab5a707fd6666899b21606066",
     "name": "A Different Kind of Mathematics",
     "author": "No Rolls Barred",
@@ -1377,6 +1386,15 @@
     ]
   },
   {
+    "hash": "d29b0af68c597a76fdb3059e1efb350f",
+    "name": "Laissez un Faire",
+    "author": "Steven Medway",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "eb9939416db6115b1dffbef30c84b54f",
     "name": "Land of Ug",
     "author": "bhamber",
@@ -1719,6 +1737,15 @@
     ]
   },
   {
+    "hash": "43f8d850daa08694eeebc5e5fb5dcc62",
+    "name": "No Greater Joy",
+    "author": "Steven Medway",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "fa5840a9541e1c50b421ca47010b63a8",
     "name": "No Roles Barred",
     "author": "Andrew Pichot",
@@ -1881,6 +1908,15 @@
     ]
   },
   {
+    "hash": "abb53934700a50ce01f169e58665a99f",
+    "name": "Over the River",
+    "author": "Andrew Nathenson",
+    "character_count": 11,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "862a11f4031f84812b38d3c83b0c46fb",
     "name": "Parlor Oil & Snake Tricks",
     "author": "Sybillian",
@@ -2034,6 +2070,15 @@
     ]
   },
   {
+    "hash": "dd379b01127d05b16af2d2d9af7c679d",
+    "name": "Race to the Bottom",
+    "author": "Evin Donahoe",
+    "character_count": 18,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "8df984f14c65b59cea68e6b0ff11aa53",
     "name": "Recruitment Event",
     "author": "Ekin Koker",
@@ -2182,6 +2227,15 @@
     "name": "Sects & Brewing",
     "author": "Steven Medway",
     "character_count": 22,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "fc3755ebbbf2707f622e17913fab2370",
+    "name": "Sects & Brewing",
+    "author": "Steven Medway",
+    "character_count": 32,
     "sources": [
       "ravenswoodarchive"
     ]
