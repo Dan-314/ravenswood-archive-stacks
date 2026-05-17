@@ -918,6 +918,15 @@
     ]
   },
   {
+    "hash": "79fe951d11a3b50afb5096a15743eb5d",
+    "name": "Gaslight, Gatekeep, Giggle",
+    "author": "McGiggles",
+    "character_count": 9,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "c51487c5e301a89b0a8f45388f88dce5",
     "name": "Gaslight, Gatekeep, Giggle",
     "author": "McGiggles",
@@ -1021,6 +1030,15 @@
     "name": "Hell's Chili Cookoff",
     "author": "Urban Minotaur",
     "character_count": 24,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "653d07dea5a7927f05643b6fab739af6",
+    "name": "Hello Neighbor",
+    "author": "Viva La Sam",
+    "character_count": 12,
     "sources": [
       "ravenswoodarchive"
     ]
