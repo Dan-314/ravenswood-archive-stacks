@@ -747,6 +747,15 @@
     ]
   },
   {
+    "hash": "4628246961afc9a0a6e3d9867bd6e120",
+    "name": "Dod of Ogg",
+    "author": "No Rolls Barred",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "100de68d84a06c5616df980b3cefc452",
     "name": "Dreamscapes",
     "author": "Paradox",
@@ -2830,6 +2839,15 @@
     "name": "The Rose Bride",
     "author": "Rhea",
     "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "f335dd6bb4850cfafcfbbecc71a6dad3",
+    "name": "The Sin of Wrath",
+    "author": "boypower2566",
+    "character_count": 25,
     "sources": [
       "ravenswoodarchive"
     ]
