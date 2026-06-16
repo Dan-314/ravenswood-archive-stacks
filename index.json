@@ -1,5 +1,14 @@
 [
   {
+    "hash": "3b465b375d792a094d348b229ffe43ff",
+    "name": "¡Todo el Mundo Habla!",
+    "author": "Chiromyiforme",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "55a913050b2b579524460a48a008dd4c",
     "name": "\"Touch Grass\" is Tick Propaganda",
     "author": "Navean",
@@ -2241,6 +2250,15 @@
     ]
   },
   {
+    "hash": "a73274644b4f5d63c4b5190a7bf3a064",
+    "name": "Riot of Your Time",
+    "author": "EquilateralDamage",
+    "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "6bbf7b9d0eb165dc129dde9a2277125f",
     "name": "Rivers Overflowing",
     "author": "Schnauzer",
@@ -3091,6 +3109,15 @@
     "name": "Trouble Brewing",
     "author": "The Pandemonium Institute",
     "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "24a241d211baf242027c1fa64a43d95e",
+    "name": "Trouble Brewing",
+    "author": "The Pandemonium Institute ",
+    "character_count": 22,
     "sources": [
       "ravenswoodarchive"
     ]
