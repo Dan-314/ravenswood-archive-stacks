@@ -126,6 +126,15 @@
     ]
   },
   {
+    "hash": "04ef229aea69aede2bf7776edea999be",
+    "name": "Alien Impostors",
+    "author": "Schnauzer",
+    "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "e67ab7e145db589df52737d1d8d4e591",
     "name": "All The King's Men",
     "author": "Jacob",
@@ -2767,6 +2776,15 @@
     "name": "The Delphic Oracle",
     "author": "Cam",
     "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "33629c65d0a6d1b375f478f714134e88",
+    "name": "The Fez Dilemma",
+    "author": "Cassowary",
+    "character_count": 22,
     "sources": [
       "ravenswoodarchive"
     ]
