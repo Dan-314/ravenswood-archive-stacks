@@ -1557,6 +1557,15 @@
     ]
   },
   {
+    "hash": "3bfbd23d7856f42968f087a1d32755bf",
+    "name": "Library of Alexandria",
+    "author": "Schnauzer",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "c997273c57075487b501d24e93711288",
     "name": "Line Dancing",
     "author": "Charlie",
@@ -1597,6 +1606,15 @@
     "name": "Lord of Teensy",
     "author": "Eggnog",
     "character_count": 10,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "416a93cca5bba7b2fc1a2158dfc74e52",
+    "name": "Love Conquers All",
+    "author": "Nashable",
+    "character_count": 33,
     "sources": [
       "ravenswoodarchive"
     ]
@@ -1830,6 +1848,15 @@
     "hash": "384de7dab6b5d41060cbd1dd7c85910d",
     "name": "Monkey Do Math",
     "author": "Jams, Josh, Kerry, & Zak",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "4cd12028f7c686be675ef9daaad626a9",
+    "name": "Monsta University",
+    "author": "Schnauzer",
     "character_count": 25,
     "sources": [
       "ravenswoodarchive"
@@ -2389,6 +2416,15 @@
     "name": "Samsara the Cycle of Life",
     "author": "A Hindu1s",
     "character_count": 31,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "5da9f81c5b442a58c066de3bd95fe565",
+    "name": "Saturnalia",
+    "author": "Schnauzer",
+    "character_count": 25,
     "sources": [
       "ravenswoodarchive"
     ]
