@@ -3546,6 +3546,15 @@
     ]
   },
   {
+    "hash": "933546de8fa60eaa81a227211767044f",
+    "name": "Vanquish the Horrible Night",
+    "author": "Ben Burns",
+    "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "f902e26d87d00f8d4b74d99302f8f365",
     "name": "Veiled Threats",
     "author": "Urban Minotaur",
@@ -3694,6 +3703,15 @@
     "name": "Witness Protection",
     "author": "atreys",
     "character_count": 12,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "1bca5f8b098a3c3bab967d7b03416101",
+    "name": "Woke Up Knowing Everything",
+    "author": "George",
+    "character_count": 31,
     "sources": [
       "ravenswoodarchive"
     ]
