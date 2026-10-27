@@ -1737,6 +1737,15 @@
     ]
   },
   {
+    "hash": "1619ab67a422cbdff665afd18eac7103",
+    "name": "Make a Wish",
+    "author": "kilopeach",
+    "character_count": 27,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "d58817cbf5fb3a27e5c4ca725246e25a",
     "name": "Mandatory Conscription",
     "author": "Kinky Joe",
@@ -2209,6 +2218,15 @@
     "name": "Persian Paranoia",
     "author": null,
     "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "1c43dda6a1ba0006fa031f2474dc6f4b",
+    "name": "Picking Sides",
+    "author": "Florens",
+    "character_count": 22,
     "sources": [
       "ravenswoodarchive"
     ]
