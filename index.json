@@ -1,5 +1,14 @@
 [
   {
+    "hash": "9a51736004db336d65d1b80ad62fd2b7",
+    "name": " Full Disclosure",
+    "author": "kilopeach",
+    "character_count": 28,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "dd5640a8bb9f4707c21c6fc49c5c3040",
     "name": " Full Disclosure",
     "author": "kilopeach",
@@ -2232,6 +2241,15 @@
     ]
   },
   {
+    "hash": "18ed990f5fe42ae30946b873a73f5701",
+    "name": "Picking Sides",
+    "author": "Florens",
+    "character_count": 23,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "1c43dda6a1ba0006fa031f2474dc6f4b",
     "name": "Picking Sides",
     "author": "Florens",
@@ -3685,6 +3703,15 @@
     "name": "War of Whispers",
     "author": "McGiggles",
     "character_count": 30,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "a110fcbe88a7dc169e551c65a2117026",
+    "name": "Way Down Hadestown",
+    "author": "Goldfish and Polo Gallo",
+    "character_count": 45,
     "sources": [
       "ravenswoodarchive"
     ]
