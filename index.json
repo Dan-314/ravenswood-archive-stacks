@@ -477,6 +477,15 @@
     ]
   },
   {
+    "hash": "ea2ccded9c91a7717d4b69c4f0fb8f81",
+    "name": "Bridge Burning",
+    "author": "kilopeach",
+    "character_count": 26,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
     "hash": "57b81f740f5372e25894005b8ae2d150",
     "name": "Broken Circles",
     "author": "Navean",
@@ -3307,6 +3316,15 @@
     "name": "The Spy Who Pinged Me",
     "author": "Matheus Ogleari",
     "character_count": 25,
+    "sources": [
+      "ravenswoodarchive"
+    ]
+  },
+  {
+    "hash": "d5c4f18981eca7ceeeebc3ecd73e007f",
+    "name": "The Squall of Cthulhu",
+    "author": "Angelo & Nick",
+    "character_count": 31,
     "sources": [
       "ravenswoodarchive"
     ]
